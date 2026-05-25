@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Saif Ali Obayes 👋
 
-<!--
-**saifaliobayes/saifaliobayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am a passionate **Python Developer** from Iraq, deeply interested in **Artificial Intelligence** and **Open-World Multiplayer Game Development**. I focus on building intelligent systems, optimizing gameplay mechanics, and creating immersive environments. 
 
-Here are some ideas to get you started:
+- 🎓 Software Engineering / Computer Science Student at **University of Wasit**.
+- ⚡ Fun fact: I love exploring how AI can make virtual worlds more dynamic and responsive!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** Python (Core), and currently expanding my horizons to learn performance-driven languages like C++ soon.
+- **AI & Data:** Machine Learning concepts, Data analysis, and automation scripts.
+- **Tools & Environments:** Git, GitHub, VS Code, Linux.
+
+---
+
+### 🎯 My Learning Roadmap & Goals
+- [ ] Implement AI agents within open-world game environments.
+- [ ] Master Multiplayer Architecture and network programming.
+- [ ] Dive deep into a low-level language (like C++) for game physics and core mechanics.
+
+---
+
+### 🤝 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/saif-ali-8971933bb)
+- 📧 [saif.ali.obayes@gmail.com](mailto:saif.ali.obayes@gmail.com)
+
+---
