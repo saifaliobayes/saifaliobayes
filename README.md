@@ -25,6 +25,5 @@ I am a passionate **Python Developer** from Iraq, deeply interested in **Artific
 
 ### 🤝 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/saif-ali-8971933bb)
-- 📧 [saif.ali.obayes@gmail.com](mailto:saif.ali.obayes@gmail.com)
 
 ---
